@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: hnx150083@gmail.com
 description: "这里是 @2thcmoon 的个人博客，与你一起发现更大的世界 | 乱写"
 keyword: "博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://2thcmoon.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -86,7 +86,7 @@ chrome-tab-theme-color: "#000000"
 service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
+page-mathjax: true
 
 # Friends
 friends:
