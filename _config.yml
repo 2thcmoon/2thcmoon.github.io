@@ -58,8 +58,9 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-# Disqus settings
-disqus_username: hux
+#duoshuo_username: _你的用户名_
+# 或者
+disqus_username: 2thcmoon
 
 # Netease settings
 netease_comment: false

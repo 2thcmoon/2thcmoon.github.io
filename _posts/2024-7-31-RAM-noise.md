@@ -8,7 +8,7 @@ author:       "2thcmoon"
 #header-style: text
 #header-img: "img/post-bg-2015.jpg"
 #header-mask: 0.3
-header-img: "img\in-post\kafka.png"
+header-img: "img/in-post/kafka.png"
 catalog:      true
 tags:
     - RAM噪声
