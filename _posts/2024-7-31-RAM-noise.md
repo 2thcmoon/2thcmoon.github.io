@@ -1,8 +1,14 @@
 ---
 layout:       post
 title:        "RAM噪声"
+subtitle:   " \"RAM噪声概述\""
+date:       2024-07-31 1:13:00
 author:       "2thcmoon"
-header-style: text
+mathjax: true
+#header-style: text
+#header-img: "img/post-bg-2015.jpg"
+#header-mask: 0.3
+header-img: "https://pic.hunx.top:7000/i/2024/07/23/x6ipbg.png"
 catalog:      true
 tags:
     - RAM噪声
