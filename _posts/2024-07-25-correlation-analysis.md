@@ -8,9 +8,9 @@ published: true
 
 # 相关性分析
 
-​![image](https://raw.githubusercontent.com/2thcmoon/2thcmoon.github.io/master/images/image-20240725165701-yp71nrk.png)​
+​![image](https://raw.githubusercontent.com/2thcmoon/2thcmoon.github.io/master/img/in-post/image-20240725165701-yp71nrk.png)​
 
-​![image](https://raw.githubusercontent.com/2thcmoon/2thcmoon.github.io/master/images/image-20240725165849-ek2yxro.png)​
+​![image](https://raw.githubusercontent.com/2thcmoon/2thcmoon.github.io/master/img/in-post/image-20240725165849-ek2yxro.png)​
 
 预期进行两次相关性分析：第一次对NPBS分成的两束光（一束RAM噪声监测、一束进入环形腔）进行相关性分析，第二次对RAM噪声监测和Sagnac信号进行相关性分析。
 
